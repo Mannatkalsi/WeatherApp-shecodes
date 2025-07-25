@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+"scripts": {
+  "build": "parcel build index.html"
+}
